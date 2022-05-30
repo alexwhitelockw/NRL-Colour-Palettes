@@ -1,0 +1,54 @@
+team_name,colour_number,colour
+Brisbane Broncos,0,#800000
+Brisbane Broncos,1,#FFD700
+Canberra Raiders,0,#9FDA41
+Canberra Raiders,1,#FFFFFF
+Canberra Raiders,2,#0E2D5C
+Canterbury-Bankstown Bulldogs,0,#000099
+Canterbury-Bankstown Bulldogs,1,#FFFFFF
+Cronulla-Sutherland Sharks,0,#87CEEB
+Cronulla-Sutherland Sharks,1,#FFFFFF
+Cronulla-Sutherland Sharks,2,#000000
+Gold Coast Titans,0,#1E90FF
+Gold Coast Titans,1,#FFD700
+Gold Coast Titans,2,#FFFFFF
+Manly Warringah Sea Eagles,0,#62003D
+Manly Warringah Sea Eagles,1,#FFFFFF
+Melbourne Storm,0,#440085
+Melbourne Storm,1,#092340
+Melbourne Storm,2,#FFFFFF
+Melbourne Storm,3,#FED102
+Newcastle Knights,0,#033395
+Newcastle Knights,1,#FF0000
+Newcastle Knights,2,#FFFFFF
+New Zealand Warriors,0,#1E90FF
+New Zealand Warriors,1,#008000
+New Zealand Warriors,2,#FF0000
+New Zealand Warriors,3,#FFFFFF
+North Queensland Cowboys,0,#1E90FF
+North Queensland Cowboys,1,#FFD700
+North Queensland Cowboys,2,#FFFFFF
+Parramatta Eels,0,#3260BA
+Parramatta Eels,1,#FFD700
+Penrith Panthers,0,#000000
+Penrith Panthers,1,#FF0000
+Penrith Panthers,2,#FFFF00
+Penrith Panthers,3,#008000
+South Sydney Rabbitohs,0,#FF0000
+South Sydney Rabbitohs,1,#008000
+South Sydney Rabbitohs,2,#FFFFFF
+South Sydney Rabbitohs,3,#FFC423
+South Sydney Rabbitohs,4,#C0C0C0
+South Sydney Rabbitohs,5,#98FB98
+South Sydney Rabbitohs,6,#EBC2AF
+St. George Illawarra Dragons,0,#FFFFFF
+St. George Illawarra Dragons,1,#FF0000
+Sydney Roosters,0,#FF0000
+Sydney Roosters,1,#FFFFFF
+Sydney Roosters,2,#00305E
+Wests Tigers,0,#000000
+Wests Tigers,1,#FFFFFF
+Wests Tigers,2,#FC7E00
+Dolphins (NRL),0,#FC141D
+Dolphins (NRL),1,#FFFFFF
+Dolphins (NRL),2,#E4CC7A
